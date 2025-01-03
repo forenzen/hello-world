@@ -1,3 +1,3 @@
 Ahem!
 Hello world.
-# Simple coding experience.
+# Simple Git and github experience.
